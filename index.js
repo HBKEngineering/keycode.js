@@ -20,6 +20,7 @@ module.exports = {
   DOWN: 40,
   INSERT: 45,
   DELETE: 46,
+  BACKSPACE: 8,
 
   // numbers
   KEY_0: 48,
