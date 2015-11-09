@@ -1,0 +1,26 @@
+{
+  "name": "keycode.js",
+  "description": "Use human key names instead of keycode numbers for your keyboard bindings.",
+  "main": "dist/keycode.js",
+  "authors": [
+    "Endel Dreyer <endel.dreyer@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "keyboard",
+    "keycode",
+    "keycodes"
+  ],
+  "homepage": "https://github.com/HBKEngineering/keycode.js",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
